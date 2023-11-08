@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **AWS, Terraform, Jenkins, Ansible, Docker, Kubernetes**
+- 🔭 I’m currently working on **AWS, Terraform, Jenkins, Ansible, Docker**
 
 - 🌱 I’m currently learning **Kubernetes, Airflow**
 

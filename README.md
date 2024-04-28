@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
+  <img height="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shreyas_shrez17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shreyas_shrez17" height="30" width="40" /></a>
-<a href="https://twitter.com/shreyas_shrez17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas_shrez17" height="30" width="40" /></a>
+<a href="https://twitter.com/shreyas_shrez17" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="shreyas_shrez17" height="30" width="40" /></a>
 <a href="https://in.linkedin.com/in/shreyas-p-4a37a3141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/shreyas-p-4a37a3141" height="30" width="40" /></a>
 </p>
 

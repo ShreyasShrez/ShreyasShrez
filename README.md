@@ -1,23 +1,272 @@
+<!-- Header with animated background -->
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyas&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Shreyas</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<!-- Animated typing introduction -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E90FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Shreyas+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9A%80;Cloud+%26+Infrastructure+Enthusiast;Automation+%26+CI%2FCD+Specialist;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on **AWS, Terraform, Jenkins, Ansible, Docker**
+<!-- Coding Animation -->
+<div align="center">
+  <img height="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif#gh-light-mode-only" alt="Coding Animation" />
+</div>
 
-- 🌱 I’m currently learning **Kubernetes, Airflow**
+<!-- Visitor Counter & Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShreyasShrez&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ShreyasShrez?style=for-the-badge&color=blue" alt="Followers"/>
+</div>
 
-- 📫 How to reach me **iamshreyasp@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/shreyas_shrez17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shreyas_shrez17" height="30" width="40" /></a>
-<a href="https://twitter.com/shreyas_shrez17" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="shreyas_shrez17" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/shreyas-p-4a37a3141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/shreyas-p-4a37a3141" height="30" width="40" /></a>
-</p>
+<!-- About Me Section -->
+<div align="center">
+  
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>      <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://datadoghq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadoghq" width="40" height="40"/> </a> <a href="https://ansible.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> </p>
+<img src="https://img.shields.io/badge/Name-Shreyas-blue?style=for-the-badge&logo=user&logoColor=white"/>
+<img src="https://img.shields.io/badge/Role-DevOps%20Engineer-green?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-India%20🇮🇳-orange?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Experience-5%2B%20Years-red?style=for-the-badge&logo=calendar&logoColor=white"/>
 
+<br/><br/>
+
+**🎯 Mission:** *Automate everything that moves* 🤖  
+**⚡ Superpower:** *Turn chaos into order* 🔍
+
+<br/>
+
+
+
+</div>
+
+<!-- Visual Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=divider"/>
+
+
+
+
+
+
+
+
+
+
+
+<!-- Tech Stack with Boxes -->
+## 🛠️ Tech Arsenal
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+### ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,kubernetes" />
+
+**AWS** • **GCP** • **Terraform** • **Kubernetes**
+
+</td>
+<td align="center" width="200">
+
+### 🔄 CI/CD & Automation
+<img src="https://skillicons.dev/icons?i=jenkins,gitlab,github,ansible" />
+
+**Jenkins** • **GitLab CI** • **GitHub Actions** • **Ansible**
+
+</td>
+<td align="center" width="200">
+
+### 🐳 Containers & Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48" height="48" alt="ArgoCD"/>
+
+**Docker** • **Helm** • **ArgoCD**
+
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+
+### 📊 Monitoring & Observability
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="48" height="48" alt="ELK"/>
+<img src="https://avatars.githubusercontent.com/u/365230?s=48&v=4" width="48" height="48" alt="Datadog"/>
+
+**Prometheus** • **Grafana** • **ELK Stack** • **Datadog**
+
+</td>
+<td align="center" width="200">
+
+### 💻 Programming & Scripting
+<img src="https://skillicons.dev/icons?i=python,go,bash" />
+
+**Python** • **Go** • **Bash/Shell**
+
+</td>
+<td align="center" width="200">
+
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+
+**MySQL** • **PostgreSQL** • **Redis**
+
+</td>
+</tr>
+</table>
+
+<!-- Skills Progress Bars -->
+<div align="center">
+
+## 📊 Skill Proficiency
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ☁️ Cloud Platforms
+<img src="https://img.shields.io/badge/AWS-95%25-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Google_Cloud-80%25-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Azure-35%25-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ DevOps Tools
+<img src="https://img.shields.io/badge/Docker-95%25-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Kubernetes-85%25-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Terraform-90%25-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Ansible-85%25-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Jenkins-90%25-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+</td>
+<td align="center" width="33%">
+
+### 💻 Programming
+<img src="https://img.shields.io/badge/Python-85%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Go-60%25-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Bash%2FShell-95%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/YAML%2FJSON-95%25-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+
+<!-- Recent Activity -->
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!-- Terminal Stats -->
+<div align="center">
+
+### 💻 Terminal Stats
+
+```bash
+shreyas@devops:~$ neofetch
+
+                   -`                    shreyas@github
+                  .o+`                   ---------------
+                 `ooo/                   OS: DevOps Engineer
+                `+oooo:                  Host: Cloud Infrastructure
+               `+oooooo:                 Kernel: Automation-5.24.1
+               -+oooooo+:                Uptime: 5+ years
+             `/:-:++oooo+:               Packages: 500+ (terraform, ansible, k8s)
+            `/++++/+++++++:              Shell: bash 5.1.16
+           `/++++++++++++++:             Resolution: 1920x1080@∞Hz
+          `/+++ooooooooooooo/`           DE: VS Code + Vim
+         ./ooosssso++osssssso+`          WM: i3-gaps
+        .oossssso-````/ossssss+`         Theme: DevOps-Dark [GTK2/3]
+       -osssssso.      :ssssssso.        Icons: FontAwesome [GTK2/3]
+      :osssssss/        osssso+++.       Terminal: alacritty
+     /ossssssss/        +ssssooo/-       CPU: Coffee-powered Intel i9
+   `/ossssso+/:-        -:/+osssso+-     GPU: NVIDIA GeForce RTX 3080
+  `+sss+:.`                 `.-/+oso:    Memory: ∞GB / ∞GB
+ `++:.                           `-/+/
+ .`                                 `/   ☕ Coffee consumed: 2847 cups
+                                         🐛 Bugs fixed: 1337+
+shreyas@devops:~$ uptime                 🚀 Deployments: 500+
+ 18:30:01 up 5+ years, 12:34,          📚 Documentation written: Actually readable!
+ 1 user, load average: 0.42, 0.37, 0.35 🎯 SLA: 99.9% uptime (mostly)
+```
+
+</div>
+
+<!-- Connect Section -->
+<div align="center">
+
+## 🤝 Let's Connect!
+
+<table>
+<tr>
+<td align="center" width="150">
+
+<a href="https://in.linkedin.com/in/shreyas-p-4a37a3141">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
+<br/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logoColor=white"/>
+</a>
+
+</td>
+<td align="center" width="150">
+
+<a href="https://twitter.com/shreyas_shrez17">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="X (Twitter)" width="40" height="40"/>
+<br/>
+<img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logoColor=white"/>
+</a>
+
+</td>
+<td align="center" width="150">
+
+<a href="https://dev.to/shreyas_shrez17">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" width="40" height="40" alt="Dev.to"/>
+<br/>
+<img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=flat-square&logoColor=white"/>
+</a>
+
+</td>
+<td align="center" width="150">
+
+<a href="mailto:iamshreyasp@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40"/>
+<br/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+### 💬 Ready to collaborate? Let's build something amazing together!
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+  <i>© 2025 From <a href="https://github.com/ShreyasShrez">ShreyasShrez</a>™</i>
+</div>

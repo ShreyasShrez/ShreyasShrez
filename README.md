@@ -1,11 +1,6 @@
 <!-- Header with animated background -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyas&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32"/>
-</div>
-
-<!-- Welcome Message -->
-<div align="center">
-  <h2>👋 Welcome! I'm Shreyas</h2>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome!%20I'm%20Shreyas&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <!-- Animated typing introduction -->

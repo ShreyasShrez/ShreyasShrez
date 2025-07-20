@@ -175,40 +175,7 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<!-- Terminal Stats -->
-<div align="center">
 
-### 💻 Terminal Stats
-
-```bash
-shreyas@devops:~$ neofetch
-
-                   -`                    shreyas@github
-                  .o+`                   ---------------
-                 `ooo/                   OS: DevOps Engineer
-                `+oooo:                  Host: Cloud Infrastructure
-               `+oooooo:                 Kernel: Automation-5.24.1
-               -+oooooo+:                Uptime: 5+ years
-             `/:-:++oooo+:               Packages: 500+ (terraform, ansible, k8s)
-            `/++++/+++++++:              Shell: bash 5.1.16
-           `/++++++++++++++:             Resolution: 1920x1080@∞Hz
-          `/+++ooooooooooooo/`           DE: VS Code + Vim
-         ./ooosssso++osssssso+`          WM: i3-gaps
-        .oossssso-````/ossssss+`         Theme: DevOps-Dark [GTK2/3]
-       -osssssso.      :ssssssso.        Icons: FontAwesome [GTK2/3]
-      :osssssss/        osssso+++.       Terminal: alacritty
-     /ossssssss/        +ssssooo/-       CPU: Coffee-powered Intel i9
-   `/ossssso+/:-        -:/+osssso+-     GPU: NVIDIA GeForce RTX 3080
-  `+sss+:.`                 `.-/+oso:    Memory: ∞GB / ∞GB
- `++:.                           `-/+/
- .`                                 `/   ☕ Coffee consumed: 2847 cups
-                                         🐛 Bugs fixed: 1337+
-shreyas@devops:~$ uptime                 🚀 Deployments: 500+
- 18:30:01 up 5+ years, 12:34,          📚 Documentation written: Actually readable!
- 1 user, load average: 0.42, 0.37, 0.35 🎯 SLA: 99.9% uptime (mostly)
-```
-
-</div>
 
 <!-- Connect Section -->
 <div align="center">

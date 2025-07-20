@@ -205,9 +205,9 @@
 <td align="center" width="150">
 
 <a href="https://dev.to/shreyas_shrez17">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" width="40" height="40" alt="Dev.to"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40" height="40" alt="Dev.to"/>
 <br/>
-<img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/>
 </a>
 
 </td>

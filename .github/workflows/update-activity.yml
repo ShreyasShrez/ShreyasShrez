@@ -1,9 +1,11 @@
 name: Update README with Recent Activity
 
 on:
-  schedule:
-    - cron: '* * * * *' # Runs every minute (TESTING)
+  push:
+    branches: [ master, main ]
   workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *' # Every 6 hours (backup)
 
 jobs:
   build:

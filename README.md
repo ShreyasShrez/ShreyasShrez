@@ -15,8 +15,15 @@
 
 <!-- Visitor Counter & Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShreyasShrez&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ShreyasShrez&style=for-the-badge&color=brightgreen&reset=true" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/ShreyasShrez?style=for-the-badge&color=blue" alt="Followers"/>
+</div>
+
+<br/>
+
+<!-- Welcome Message -->
+<div align="center">
+  <h2>👋 Welcome! I'm Shreyas</h2>
 </div>
 
 <br/>
@@ -237,4 +244,3 @@
 <div align="center">
   <i>© 2025 From <a href="https://github.com/ShreyasShrez">ShreyasShrez</a>™</i>
 </div>
-

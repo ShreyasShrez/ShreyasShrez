@@ -3,6 +3,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyas&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32"/>
 </div>
 
+<!-- Welcome Message -->
+<div align="center">
+  <h2>👋 Welcome! I'm Shreyas</h2>
+</div>
+
 <!-- Animated typing introduction -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E90FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Shreyas+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9A%80;Cloud+%26+Infrastructure+Enthusiast;Automation+%26+CI%2FCD+Specialist;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -17,13 +22,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ShreyasShrez&style=for-the-badge&color=brightgreen&reset=true" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/ShreyasShrez?style=for-the-badge&color=blue" alt="Followers"/>
-</div>
-
-<br/>
-
-<!-- Welcome Message -->
-<div align="center">
-  <h2>👋 Welcome! I'm Shreyas</h2>
 </div>
 
 <br/>

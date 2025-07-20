@@ -10,7 +10,7 @@
 
 <!-- Coding Animation -->
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif#gh-light-mode-only" alt="Coding Animation" />
+  <img height="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding Animation" />
 </div>
 
 <!-- Visitor Counter & Profile Views -->

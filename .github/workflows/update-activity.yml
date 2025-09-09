@@ -2,8 +2,8 @@ name: Update README with Recent Activity
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '* * * * *' # Every 6 hours
+#  schedule:
+#    - cron: '* * * * *' # Every 6 hours
 
 jobs:
   build:
